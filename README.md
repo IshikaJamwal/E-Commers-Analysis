@@ -46,7 +46,3 @@ Three machine learning models were implemented to predict customer churn:
 The analysis of E-commerce customer data has revealed several important insights into customer churn behavior. Key factors influencing churn include **SatisfactionScore**, **OrderCount**, and **DaySinceLastOrder**. By leveraging machine learning models, particularly Extreme Boosting, we were able to predict customer churn with high accuracy. These insights can help E-commerce businesses develop targeted strategies to improve customer retention, such as enhancing satisfaction through personalized offers or re-engaging customers who haven't ordered recently. Overall, this project demonstrates the powerful role of data-driven decision-making in reducing churn and optimizing customer lifetime value.
 
 
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
-Editing Analysis-of-E-Commerce/README.md at main · Sanskar0404/Analysis-of-E-Commerce
